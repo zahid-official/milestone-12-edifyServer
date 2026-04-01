@@ -7,7 +7,7 @@
 A robust RESTful API driving the Edify scholarship platform - orchestrating scholarship catalogs, multi-role access control, Stripe payment processing, JWT authentication, and application lifecycle management through Express.js and MongoDB.
 
 [![Live App](https://img.shields.io/badge/▶_Live_App-edify--official.vercel.app-00806D?style=for-the-badge&logo=vercel&logoColor=white)](https://edify-official.vercel.app/)
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zahid-official/milestone-12-server)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zahid-official/milestone-12-edifyServer)
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
 <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
@@ -395,7 +395,7 @@ milestone-12-server/
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/zahid-official/milestone-12-server.git
+git clone https://github.com/zahid-official/milestone-12-edifyServer.git
 
 # 2. Navigate to the project directory
 cd milestone-12-server
@@ -518,7 +518,7 @@ This server is deployed on **Vercel** as a serverless function. The `vercel.json
 <tr><th align="left">Repository</th><th align="left">Description</th><th align="left">Link</th></tr>
 </thead>
 <tbody>
-<tr><td><b>Edify Client</b></td><td>React frontend - browse scholarships, apply, pay, manage reviews & dashboards</td><td><a href="https://github.com/zahid-official/milestone-12-client">GitHub</a></td></tr>
+<tr><td><b>Edify Client</b></td><td>React frontend - browse scholarships, apply, pay, manage reviews & dashboards</td><td><a href="https://github.com/zahid-official/milestone-12-edifyClient">GitHub</a></td></tr>
 <tr><td><b>Live App</b></td><td>Deployed full-stack application on Vercel</td><td><a href="https://edify-official.vercel.app/">edify-official.vercel.app</a></td></tr>
 </tbody>
 </table>
