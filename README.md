@@ -130,8 +130,8 @@ A robust RESTful API driving the Edify scholarship platform - orchestrating scho
                   │                   Client Application (React)                    │
                   │               https://edify-official.vercel.app                 │
                   └──────────────────────────────┬──────────────────────────────────┘
-                                                │  HTTP Requests (REST + JWT Header)
-                                                ▼
+                                                 │  HTTP Requests (REST + JWT Header)
+                                                 ▼
                   ┌─────────────────────────────────────────────────────────────────┐
                   │                     Express.js API Server                       │
                   │                                                                 │
@@ -180,7 +180,7 @@ A robust RESTful API driving the Edify scholarship platform - orchestrating scho
 
 ### 🔑 Authentication
 
-<table align="center">
+<table>
 <thead>
 <tr><th align="left">Method</th><th align="left">Endpoint</th><th align="left">Auth</th><th align="left">Description</th></tr>
 </thead>
@@ -191,7 +191,7 @@ A robust RESTful API driving the Edify scholarship platform - orchestrating scho
 
 ### 👥 Users
 
-<table align="center">
+<table>
 <thead>
 <tr><th align="left">Method</th><th align="left">Endpoint</th><th align="left">Auth</th><th align="left">Description</th></tr>
 </thead>
@@ -208,7 +208,7 @@ A robust RESTful API driving the Edify scholarship platform - orchestrating scho
 
 ### 🎓 Scholarships
 
-<table align="center">
+<table>
 <thead>
 <tr><th align="left">Method</th><th align="left">Endpoint</th><th align="left">Auth</th><th align="left">Description</th></tr>
 </thead>
@@ -282,7 +282,7 @@ A robust RESTful API driving the Edify scholarship platform - orchestrating scho
 
 ### 📋 usersCollection
 
-<table align="center">
+<table>
 <thead>
 <tr><th align="left">Field</th><th align="left">Type</th><th align="left">Description</th></tr>
 </thead>
@@ -295,7 +295,7 @@ A robust RESTful API driving the Edify scholarship platform - orchestrating scho
 
 ### 📋 scholarshipCollection
 
-<table align="center">
+<table>
 <thead>
 <tr><th align="left">Field</th><th align="left">Type</th><th align="left">Description</th></tr>
 </thead>
@@ -319,7 +319,7 @@ A robust RESTful API driving the Edify scholarship platform - orchestrating scho
 
 ### 📋 appliedScholarshipCollection
 
-<table align="center">
+<table>
 <thead>
 <tr><th align="left">Field</th><th align="left">Type</th><th align="left">Description</th></tr>
 </thead>
@@ -341,7 +341,7 @@ A robust RESTful API driving the Edify scholarship platform - orchestrating scho
 
 ### 📋 reviewCollection
 
-<table align="center">
+<table>
 <thead>
 <tr><th align="left">Field</th><th align="left">Type</th><th align="left">Description</th></tr>
 </thead>
@@ -378,7 +378,7 @@ milestone-12-server/
 
 ### Prerequisites
 
-<table align="center">
+<table>
 <thead>
 <tr><th align="left">Requirement</th><th align="left">Details</th></tr>
 </thead>
@@ -430,7 +430,7 @@ STRIPE_KEY=your_stripe_secret_key
 
 ## 📜 Available Scripts
 
-<table align="center">
+<table>
 <thead>
 <tr><th align="left">Command</th><th align="left">Description</th></tr>
 </thead>
@@ -513,7 +513,7 @@ This server is deployed on **Vercel** as a serverless function. The `vercel.json
 
 ## 🔗 Related Repository
 
-<table align="center">
+<table>
 <thead>
 <tr><th align="left">Repository</th><th align="left">Description</th><th align="left">Link</th></tr>
 </thead>
