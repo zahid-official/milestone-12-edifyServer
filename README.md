@@ -65,7 +65,7 @@ A robust RESTful API driving the Edify scholarship platform - orchestrating scho
 
 ### 💳 Payments & Application Workflow
 
-<table align="center">
+<table>
 <thead>
 <tr><th align="left">Feature</th><th align="left">Description</th></tr>
 </thead>
@@ -80,7 +80,7 @@ A robust RESTful API driving the Edify scholarship platform - orchestrating scho
 
 ### 🔧 Infrastructure & Deployment
 
-<table align="center">
+<table>
 <thead>
 <tr><th align="left">Feature</th><th align="left">Description</th></tr>
 </thead>
@@ -247,7 +247,7 @@ A robust RESTful API driving the Edify scholarship platform - orchestrating scho
 
 ### ⭐ Reviews
 
-<table align="center">
+<table>
 <thead>
 <tr><th align="left">Method</th><th align="left">Endpoint</th><th align="left">Auth</th><th align="left">Description</th></tr>
 </thead>
@@ -263,7 +263,7 @@ A robust RESTful API driving the Edify scholarship platform - orchestrating scho
 
 ### 💳 Payments
 
-<table align="center">
+<table>
 <thead>
 <tr><th align="left">Method</th><th align="left">Endpoint</th><th align="left">Auth</th><th align="left">Description</th></tr>
 </thead>
